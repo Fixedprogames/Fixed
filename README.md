@@ -10,5 +10,10 @@ Find the Way (GAME)
 1. The game does not require any of your data, the exception is advertising.
 (All information collected by Google advertising, on their responsibility.)
 
+Balloons Challenge (GAME)
+
+1. The game does not require any of your data, the exception is advertising.
+(All information collected by Unity advertising, on their responsibility.)
+
 
 We work honestly to earn money honestly!
